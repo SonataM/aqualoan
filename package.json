@@ -55,7 +55,7 @@
     "@visx/grid": "^2.12.2",
     "@visx/responsive": "^2.10.0",
     "@visx/scale": "^2.2.2",
-    "@visx/shape": "^2.12.2",
+    "@visx/shape": "^3.5.0",
     "@visx/tooltip": "^2.16.0",
     "@walletconnect/ethereum-provider": "^2.9.0",
     "@walletconnect/modal": "^2.6.0",
